@@ -1,2 +1,2 @@
 # Configula
-Based Consul Config Centre
+Consul-Based Config Centre
